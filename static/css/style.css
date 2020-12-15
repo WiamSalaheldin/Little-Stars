@@ -2,9 +2,10 @@
     width: 100%;
 }
 body {
-  background-color:#ffb1ff !important;
+  background-color: rgb(255, 192, 203) !important;
   font-family: "Asap", sans-serif;
   color:#3389ec;
+  font-style: italic;
   margin:10px;
   font-size:16px;
 }
@@ -59,3 +60,4 @@ img.zoom {
 h2 {
     color: #3676d6;
 }
+
