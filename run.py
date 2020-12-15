@@ -19,7 +19,7 @@ def about():
     data = []
     with open("data/school.json", "r") as json_data:
         data = json.load(json_data)
-    return render_template("about.html", page_title="About", school=data)
+    return render_template("about.html", page_title="About Little Stars", school=data)
 
 
 @app.route("/about/<kid_name>")
@@ -38,7 +38,7 @@ def contact():
     if request.method == "POST":
         flash("Thanks {}, we have received your message, we will contact you within 24hrs!".format(
             request.form.get("name")))
-    return render_template("contact.html", page_title="Contact")
+    return render_template("contact.html", page_title="Contact Us")
 
 
 if __name__ == "__main__":
