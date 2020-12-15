@@ -4,7 +4,7 @@
 body {
   background-color:#ffb1ff !important;
   font-family: "Asap", sans-serif;
-  color:#989898;
+  color:#3389ec;
   margin:10px;
   font-size:16px;
 }
@@ -57,5 +57,5 @@ img.zoom {
       display:none;  
     }
 h2 {
-    color: #60a52c;
+    color: #3676d6;
 }
