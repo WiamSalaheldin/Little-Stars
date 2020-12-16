@@ -3,3 +3,4 @@ core.mongo*
 core.python*
 __pycache__/
 *.py[cod]
+env.py
