@@ -41,6 +41,6 @@ __screen blueprint__
 
 
 
-[__Click_here__](https://little-stars-wiam.herokuapp.com/)
+[__Go_to_the_website__](https://little-stars-wiam.herokuapp.com/)
 
 
