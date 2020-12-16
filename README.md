@@ -32,9 +32,15 @@ Final Steps:
 
 * flask framework
 
+__screen blueprint__
+
+<img src="static/img/lS1.PNG">
+<img src="static/img/lS2.PNG">
+<img src="static/img/lS3.PNG">
+<img src="static/img/lS4.PNG">
 
 
 
 [__Click_here__](https://little-stars-wiam.herokuapp.com/)
 
-__screen blueprint__
+
