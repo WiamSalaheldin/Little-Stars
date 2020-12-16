@@ -36,8 +36,8 @@ __screen blueprint__
 
 <img src="static/img/lS1.PNG">
 <img src="static/img/lS2.PNG">
-<img src="static/img/lS3.PNG">
-<img src="static/img/lS4.PNG">
+<img src="static/img/LS3.PNG">
+<img src="static/img/LS4.PNG">
 
 
 
