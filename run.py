@@ -11,7 +11,7 @@ app.secret_key = os.environ.get("SECRET_KEY")
 
 @app.route("/")
 def index():
-    return render_template("index.html")
+    return render_template("index.html", page_title="Our Program")
 
 
 @app.route("/about")
