@@ -28,6 +28,8 @@ Final Steps:
 
 * BootStrap
 
+* Javascript
+
 * python
 
 * flask framework
